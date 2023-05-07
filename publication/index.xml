@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications | Academic</title><link>https://haodu007.github.io/publication/</link><atom:link href="https://haodu007.github.io/publication/index.xml" rel="self" type="application/rss+xml"/><description>Publications</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><image><url>https://haodu007.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Publications</title><link>https://haodu007.github.io/publication/</link></image><item><title>Computing Logarithmic Parts by Evaluation Homomorphisms</title><link>https://haodu007.github.io/publication/logpart-paper/</link><pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate><guid>https://haodu007.github.io/publication/logpart-paper/</guid><description>&lt;hr>
 &lt;h2 id="logint">LogInt&lt;/h2>
 &lt;p>Given an elementary integrable element in a logarithmic tower, for example,
-$\mathbb{C}(x, \log(x))$ , the Algorithm AddInt_log can find its elementary integral, while &amp;ldquo;int&amp;rdquo; command in Maple can only return the input without computing.
+$\mathbb{C}(x, \log(x))$ , the Algorithm &lt;strong>AddInt_log&lt;/strong> can find its elementary integral, while &lt;strong>int&lt;/strong> in Maple can only return the input without computing.
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="LogInt" srcset="
@@ -15,9 +15,9 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;h2 id="logpart">LogPart&lt;/h2>
-&lt;p>Given an element in
-$\mathbb{C}(x, \log(x), \log(\log(x)))$ , the Algorithm EH and Algorithm
-EH$^*$ can compute its logarithmic part and the complete logarithmic part, respectively.
+&lt;p>Given an element in a logarithmic tower, for example, in
+$\mathbb{C}(x, \log(x), \log(\log(x)))$ , the Algorithm &lt;strong>EH&lt;/strong> and Algorithm &lt;strong>
+EH$^*$ &lt;/strong> can compute its logarithmic part and the complete logarithmic part, respectively.
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="LogPart" srcset="
@@ -31,7 +31,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;h2 id="sprimint">SprimInt&lt;/h2>
-&lt;p>By an analogue of Algorithm AddInt_log, we can also find elementary integrals for elements in S-primitive towers while Maple int cannot.
+&lt;p>By an analogue of Algorithm &lt;strong>AddInt_log&lt;/strong>, we can also find elementary integrals for elements in S-primitive towers while Maple &lt;strong>int&lt;/strong> cannot.
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="SprimInt" srcset="
