@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications | Academic</title><link>https://haodu007.github.io/publication/</link><atom:link href="https://haodu007.github.io/publication/index.xml" rel="self" type="application/rss+xml"/><description>Publications</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><image><url>https://haodu007.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Publications</title><link>https://haodu007.github.io/publication/</link></image><item><title>Computing Logarithmic Parts by Evaluation Homomorphisms</title><link>https://haodu007.github.io/publication/conference-paper/</link><pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate><guid>https://haodu007.github.io/publication/conference-paper/</guid><description>&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications | Academic</title><link>https://haodu007.github.io/publication/</link><atom:link href="https://haodu007.github.io/publication/index.xml" rel="self" type="application/rss+xml"/><description>Publications</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><image><url>https://haodu007.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Publications</title><link>https://haodu007.github.io/publication/</link></image><item><title>Computing Logarithmic Parts by Evaluation Homomorphisms</title><link>https://haodu007.github.io/publication/logpart-paper/</link><pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate><guid>https://haodu007.github.io/publication/logpart-paper/</guid><description>&lt;hr>
 &lt;h2 id="logint">LogInt&lt;/h2>
 &lt;p>Given an elementary integrable element in a logarithmic tower, for example,
 $\mathbb{C}(x, \log(x))$ , the Algorithm AddInt_log can find its elementary integral, while &amp;ldquo;int&amp;rdquo; command in Maple can only return the input without computing.
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="LogInt" srcset="
-/publication/conference-paper/LogInt_huedfb37eee04edad94c568db31902e8eb_155647_e2318f4f82ac1d6508dd17865ac8591b.webp 400w,
-/publication/conference-paper/LogInt_huedfb37eee04edad94c568db31902e8eb_155647_c63484c675c60d8b8f09aa097451e98c.webp 760w,
-/publication/conference-paper/LogInt_huedfb37eee04edad94c568db31902e8eb_155647_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://haodu007.github.io/publication/conference-paper/LogInt_huedfb37eee04edad94c568db31902e8eb_155647_e2318f4f82ac1d6508dd17865ac8591b.webp"
+/publication/logpart-paper/LogInt_huedfb37eee04edad94c568db31902e8eb_155647_e2318f4f82ac1d6508dd17865ac8591b.webp 400w,
+/publication/logpart-paper/LogInt_huedfb37eee04edad94c568db31902e8eb_155647_c63484c675c60d8b8f09aa097451e98c.webp 760w,
+/publication/logpart-paper/LogInt_huedfb37eee04edad94c568db31902e8eb_155647_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://haodu007.github.io/publication/logpart-paper/LogInt_huedfb37eee04edad94c568db31902e8eb_155647_e2318f4f82ac1d6508dd17865ac8591b.webp"
 width="760"
 height="715"
 loading="lazy" data-zoomable />&lt;/div>
@@ -21,10 +21,10 @@ EH$^*$ can compute its logarithmic part and the complete logarithmic part, respe
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="LogPart" srcset="
-/publication/conference-paper/LogPart_hufe9cf30a7fa7f8edbaf7e51e5c87b82f_129412_8077d9be607530b9a2a693fec0fa6f60.webp 400w,
-/publication/conference-paper/LogPart_hufe9cf30a7fa7f8edbaf7e51e5c87b82f_129412_c5bb35c38032ab63e1b63ca618269afc.webp 760w,
-/publication/conference-paper/LogPart_hufe9cf30a7fa7f8edbaf7e51e5c87b82f_129412_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://haodu007.github.io/publication/conference-paper/LogPart_hufe9cf30a7fa7f8edbaf7e51e5c87b82f_129412_8077d9be607530b9a2a693fec0fa6f60.webp"
+/publication/logpart-paper/LogPart_hufe9cf30a7fa7f8edbaf7e51e5c87b82f_129412_8077d9be607530b9a2a693fec0fa6f60.webp 400w,
+/publication/logpart-paper/LogPart_hufe9cf30a7fa7f8edbaf7e51e5c87b82f_129412_c5bb35c38032ab63e1b63ca618269afc.webp 760w,
+/publication/logpart-paper/LogPart_hufe9cf30a7fa7f8edbaf7e51e5c87b82f_129412_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://haodu007.github.io/publication/logpart-paper/LogPart_hufe9cf30a7fa7f8edbaf7e51e5c87b82f_129412_8077d9be607530b9a2a693fec0fa6f60.webp"
 width="760"
 height="550"
 loading="lazy" data-zoomable />&lt;/div>
@@ -35,10 +35,10 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="SprimInt" srcset="
-/publication/conference-paper/SprimInt_hu644c3a119700623c0a757cfc30a3b18f_139638_aaabc3f0ffeb5c6591df605eaf32d332.webp 400w,
-/publication/conference-paper/SprimInt_hu644c3a119700623c0a757cfc30a3b18f_139638_259179df41d86a010885cd599dd6af48.webp 760w,
-/publication/conference-paper/SprimInt_hu644c3a119700623c0a757cfc30a3b18f_139638_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://haodu007.github.io/publication/conference-paper/SprimInt_hu644c3a119700623c0a757cfc30a3b18f_139638_aaabc3f0ffeb5c6591df605eaf32d332.webp"
+/publication/logpart-paper/SprimInt_hu644c3a119700623c0a757cfc30a3b18f_139638_aaabc3f0ffeb5c6591df605eaf32d332.webp 400w,
+/publication/logpart-paper/SprimInt_hu644c3a119700623c0a757cfc30a3b18f_139638_259179df41d86a010885cd599dd6af48.webp 760w,
+/publication/logpart-paper/SprimInt_hu644c3a119700623c0a757cfc30a3b18f_139638_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://haodu007.github.io/publication/logpart-paper/SprimInt_hu644c3a119700623c0a757cfc30a3b18f_139638_aaabc3f0ffeb5c6591df605eaf32d332.webp"
 width="760"
 height="656"
 loading="lazy" data-zoomable />&lt;/div>
@@ -58,19 +58,4 @@ click the &lt;em>PDF&lt;/em> button to download the paper.
 &lt;div>
 click th &lt;em>Code&lt;/em> button to get maple code link(in github).
 &lt;/div>
-&lt;/div></description></item><item><title>An example preprint / working paper</title><link>https://haodu007.github.io/publication/preprint/</link><pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate><guid>https://haodu007.github.io/publication/preprint/</guid><description>&lt;div class="alert alert-note">
-&lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
-&lt;/div>
-&lt;/div>
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>An example journal article</title><link>https://haodu007.github.io/publication/journal-article/</link><pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate><guid>https://haodu007.github.io/publication/journal-article/</guid><description>&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-&lt;/div>
-&lt;/div>
-&lt;div class="alert alert-note">
-&lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
-&lt;/div>
-&lt;/div>
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item></channel></rss>
+&lt;/div></description></item></channel></rss>
